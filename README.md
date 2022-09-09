@@ -11,6 +11,9 @@ Create a simple calendar application that allows a user to save events for each 
 * text for that event is saved in local storage
 * the saved events persist after refreshing the page
 
+## Link
+[Deployed Page](https://ghazaleh-j.github.io/Day-Scheduler/)
+
 ## Application Preview
 ![alt text](/preview.png)
 
